@@ -1,0 +1,6 @@
+framework module Pods_FriTest {
+  umbrella header "Pods-FriTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
